@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "test": "percy exec -- node ./test.js"
-  },
-  "devDependencies": {
-    "@percy/agent": "~0"
-  }
-}
